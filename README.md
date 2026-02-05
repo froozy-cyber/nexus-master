@@ -1,9 +1,13 @@
-This is a Voice Assisstant NEXUS for your PC.
+This is the NEXUS voice assistant for your PC.
 
-That's a 0.6.8 version of my programm.
+ This is version 0.6.8 of my program.
 
-I'm solo programmer from Russia.
+I am a single programmer from Russia.
 
-I can not use the AI for programming this code.
+ I cannot use artificial intelligence to program this code.
 
-I believe i can reach v1.0.0!
+ I believe that I can reach version 1.0.0!
+
+If you want to help me, please contact me through my Telegram account @R2D2_39.
+
+I will be happy to create a development team and bring this code to perfection!
