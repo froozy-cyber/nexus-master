@@ -50,4 +50,3 @@ STATE_COLORS = {
     "SEARCH": "#f59e0b",
     "COMMAND": "#10b981",
 }
-
